@@ -1,0 +1,23 @@
+---
+title:  "soy peroxido de hidrogeno!"
+subtitle: ""
+author: "강현수"
+avatar: "img/authors/wferr.png"
+image: "img/4.jpg"
+date:   2020-11-18
+---
+
+#### 주저리 주저리 책 소개 하기 
+
+#### 주저리 주러리 ㅋ리리리리링니아러ㅏㅁ
+
+<img src="img/inst/kimmijung3_inst.png"  width="650" height="350">
+
+
+
+## [책보기](samples/kimmijung3/index.html)
+## [YOUTUBE 읽기 영상](https://www.youtube.com)
+<br><br><br>
+##### ※ windows 10 Chrome에서 보이지 않을 시 <span style="color:#ff3636"> Edge, Opera, firefox , IE 등 </span> 타 브라우저로 접근 권장합니다.
+
+

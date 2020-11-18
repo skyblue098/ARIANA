@@ -1,0 +1,13 @@
+---
+title:  "작가 소개"
+subtitle: "CEO"
+author: "ARIRNA"
+avatar: "img/authors/wferr.png"
+image: "img/about.jpg"
+date:   2020-11-19 
+---
+
+### 주저리 주저리 책 소개 하기 
+### 주저리 주러리 ㅋ리리리리링니아러ㅏㅁ
+
+<img src="img/10.jpg"  width="280" height="350">

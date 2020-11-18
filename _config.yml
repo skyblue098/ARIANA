@@ -1,0 +1,7 @@
+# Site settings
+title: 꿈사랑 출판사
+description: Spanish Storybook Blog
+keywords: Spanish, Blogging, book
+author: ARIANA
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
